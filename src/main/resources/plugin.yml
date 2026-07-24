@@ -2,7 +2,7 @@ main: onevnl.ru.elytrya.BoostyBridge
 version: b0.3
 name: BoostyBridge
 author: elytrya
-api-version: 1.21
+api-version: 1.16
 
 softdepend: [PlaceholderAPI]
 
